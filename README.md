@@ -1,7 +1,7 @@
 # digit_recognizer
 This project implements a two-layer neural network from scratch using NumPy to recognize handwritten digits (0–9) from 28 × 28 grayscale images.
 
-Technologies Used: Python, NumPy, Pandas, Matplotlib.
+Technologies Used: Python, NumPy, Pandas, Matplotlib, Neural Networks, ReLU, Softmax, Backpropagation, Gradient Descent, One-Hot Encoding
 
 Dataset: The Kaggle Digit Recognizer dataset contains 42,000 labeled training images and 28,000 test images. Each image consists of 784 pixel values.
 
